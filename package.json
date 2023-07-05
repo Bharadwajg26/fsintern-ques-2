@@ -1,0 +1,39 @@
+{
+  "name": "mui-issue-latest",
+  "version": "5.0.0",
+  "description": "Template for a codesandbox that should be included in your issue.",
+  "keywords": [
+    "mui"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emotion/react": "11.11.1",
+    "@emotion/styled": "11.11.0",
+    "@material-ui/core": "4.12.4",
+    "@material-ui/icons": "5.0.0-beta.5",
+    "@mui/material": "5.13.7",
+    "@smui/icon-button": "7.0.0-beta.14",
+    "@smui/menu": "7.0.0-beta.14",
+    "@smui/menu-surface": "7.0.0-beta.0",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
